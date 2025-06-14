@@ -1,0 +1,21 @@
+.Banner {
+  display: flex;
+  background-color: #ef233c;
+  justify-content: center;
+  margin: 0;
+}
+.TNT36 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-weight: bolder;
+}
+.slogan {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 5px;
+}
